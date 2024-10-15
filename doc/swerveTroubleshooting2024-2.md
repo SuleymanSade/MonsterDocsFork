@@ -4,11 +4,11 @@
 
 ### Initial Symptoms 
 
-* . Error in VS code when the code is deployed:
+* Error in VS code when the code is deployed:
 
 <img src="./images/LowVoltageErrorMessage.jpg" width=150>
 
-* . Can bus was giving error when ran with RevClient
+* Can bus was giving error when ran with RevClient
 
 ### Trouble Shooting Safety
 
@@ -33,7 +33,7 @@ Final Resolution
   * The signal color of the CanSparkMax was the following:
 
   <img src="./images/InfoRelatedToCanSparkMaxColors.jpg" width=150>
-  
+
     * Figured out one of the cables is broken and changed it, which fixed the issue
 
 <img src="./images/CanSparkMaxLight.jpg" alt="CanSparkMaxLights" width="150">
