@@ -10,5 +10,6 @@ Welcome to Example's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   visionStartupInstructions.md
    some-feature.md
    another-feature.md
