@@ -10,6 +10,6 @@ Welcome to Example's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   visionStartupInstructions.md
+   monster-vision-startup.md
    some-feature.md
    another-feature.md
