@@ -7,10 +7,12 @@ Welcome to Example's documentation!
 ===================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    :caption: Drivetrain Docs:
 
+   Drivetrain Docs
+   ---------------
    robot-subsystem-drivetrain-coordinate-systems.md
    robot-subsystem-drivetrain-swerve-drive.md
    robot-subsystem-arm-pid.md
