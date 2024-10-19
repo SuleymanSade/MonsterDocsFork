@@ -7,9 +7,34 @@ Welcome to Example's documentation!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
+   :caption: Drivetrain Docs:
+
+   robot-subsystem-drivetrain-coordinate-systems.md
+   robot-subsystem-drivetrain-swerve-drive.md
+   robot-subsystem-arm-pid.md
+
+   :caption: Intake / Outtake:
+
+   robot-subsystem-intake-outtake.md
+
+   :caption: Vision Docs:
+
+   monster-vision-overview.md
    monster-vision-startup.md
-   some-feature.md
-   another-feature.md
+   robot-subsystem-vision.md
+   wpilib-grip.md
+   
+   :caption: Sensor Docs:
+
+   sensors-color-sensor.md
+   sensors-arduino-color-sensor.md
+   sensors-arduino-led-board.md
+   sensors-arduino-color-strip.md
+
+   :caption: Other Docs:
+
+   other-docs-pid.md
+   other-docs-some-feature.md
+   other-docs-another-feature.md
