@@ -3,16 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Example's documentation!
+Welcome to MonsterDocs!
 ===================================
 
+MonsterDocs is the documentation library for the FIRST Robotics Competition (FRC) team Lake Monsters 2635.
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    :caption: Drivetrain Docs:
 
-   Drivetrain Docs
-   ---------------
    robot-subsystem-drivetrain-coordinate-systems.md
    robot-subsystem-drivetrain-swerve-drive.md
    robot-subsystem-arm-pid.md
