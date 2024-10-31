@@ -1,4 +1,4 @@
-## Arduino Color Sensors
+## [TODO] Arduino Color Sensors
 
 TODO: Docs on how to do an arduino color sensor... how do you have smarter sensors and data processing on the arduino so that you don't need to do it in java / python and then output to the DIO instead of the I2C or PWM.
 

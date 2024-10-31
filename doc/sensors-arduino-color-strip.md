@@ -1,4 +1,4 @@
-## LED Color Strip
+## [TODO] LED Color Strip
 
 TODO: demo of how do do a LED color strip 
 * control the led color for the purpose of bling / fancy stuff... 
