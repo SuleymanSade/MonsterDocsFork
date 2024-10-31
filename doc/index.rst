@@ -16,6 +16,9 @@ MonsterDocs is the documentation library for the FIRST Robotics Competition (FRC
    robot-subsystem-drivetrain-swerve-drive.md
    robot-subsystem-arm-pid.md
 
+   robot-subsystem-drivetrain-swerve-troublehsooting-low-voltage.md
+   robot-subsystem-drivetrain-swerve-troublehsooting-cable-connection.md
+
 .. toctree::
    :maxdepth: 1
    :caption: Intake / Outtake:
