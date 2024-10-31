@@ -10,24 +10,29 @@ MonsterDocs is the documentation library for the FIRST Robotics Competition (FRC
 
 .. toctree::
    :maxdepth: 1
-
    :caption: Drivetrain Docs:
 
    robot-subsystem-drivetrain-coordinate-systems.md
    robot-subsystem-drivetrain-swerve-drive.md
    robot-subsystem-arm-pid.md
 
+.. toctree::
+   :maxdepth: 1
    :caption: Intake / Outtake:
-
+   
    robot-subsystem-intake-outtake.md
-
+   
+.. toctree::
+   :maxdepth: 1
    :caption: Vision Docs:
 
    monster-vision-overview.md
    monster-vision-startup.md
    robot-subsystem-vision.md
    wpilib-grip.md
-   
+
+.. toctree::
+   :maxdepth: 1
    :caption: Sensor Docs:
 
    sensors-color-sensor.md
@@ -35,6 +40,8 @@ MonsterDocs is the documentation library for the FIRST Robotics Competition (FRC
    sensors-arduino-led-board.md
    sensors-arduino-color-strip.md
 
+.. toctree::
+   :maxdepth: 1
    :caption: Other Docs:
 
    other-docs-pid.md
