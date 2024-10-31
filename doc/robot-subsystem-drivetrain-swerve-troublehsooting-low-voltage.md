@@ -6,7 +6,7 @@
 
 * Error in VS code when the code is deployed:
 
-<img src="./images/LowVoltageErrorMessage.jpg" width=150>
+  <img src="./images/LowVoltageErrorMessage.jpg" width=150>
 
 * Can bus was giving error when ran with RevClient
 
@@ -34,5 +34,4 @@ Final Resolution
   * CanBus was giving error related to low voltage
     * Encoder cable was broken and the issue was fixed by changing the encoder cable.
 
-<img src="./images/BrokenEncoderCable.jpg" alt="Broken Encoder Cable" width="150"/><img src="./images/CanSparkMax.jpg" alt="Auto Points" width="150"/>
-====================
+      <img src="./images/BrokenEncoderCable.jpg" alt="Broken Encoder Cable" width="150"/><img src="./images/CanSparkMax.jpg" alt="Auto Points" width="150"/>
