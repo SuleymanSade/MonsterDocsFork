@@ -16,9 +16,6 @@ MonsterDocs is the documentation library for the FIRST Robotics Competition (FRC
    robot-subsystem-drivetrain-swerve-drive.md
    robot-subsystem-arm-pid.md
 
-   robot-subsystem-drivetrain-swerve-troublehsooting-low-voltage.md
-   robot-subsystem-drivetrain-swerve-troublehsooting-cable-connection.md
-
 .. toctree::
    :maxdepth: 1
    :caption: Intake / Outtake:
@@ -42,6 +39,13 @@ MonsterDocs is the documentation library for the FIRST Robotics Competition (FRC
    sensors-arduino-color-sensor.md
    sensors-arduino-led-board.md
    sensors-arduino-color-strip.md
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Troubleshooting:
+
+   robot-subsystem-drivetrain-swerve-troubleshooting-low-voltage.md
+   robot-subsystem-drivetrain-swerve-troubleshooting-cable-connection.md
 
 .. toctree::
    :maxdepth: 1

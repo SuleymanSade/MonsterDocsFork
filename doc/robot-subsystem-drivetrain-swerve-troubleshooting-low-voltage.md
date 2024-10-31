@@ -1,5 +1,3 @@
-# Problems
-
 ## Low voltage in RevClient
 
 ### Initial Symptoms 

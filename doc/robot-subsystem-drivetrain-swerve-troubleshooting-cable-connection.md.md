@@ -1,5 +1,3 @@
-# Problems
-
 ## Cable Connection Issue
 
 ### Initial Symptoms 
