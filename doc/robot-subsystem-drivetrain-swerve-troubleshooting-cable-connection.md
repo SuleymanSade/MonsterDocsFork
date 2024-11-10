@@ -4,7 +4,7 @@
 
 * Error in VS code when the code is deployed:
 
-  <img src="images/LowVoltageErrorMessage.jpg" width= "150" />
+  <img src="https://github.com/Lakemonsters2635/MonsterDocs/blob/main/doc/images/LowVoltageErrorMessage.jpg" width= "150" />
 
 * Can bus was giving error when ran with RevClient
 
@@ -30,8 +30,8 @@ Final Resolution
 * First there was an error related to canSparkMaxes and canBus
   * The signal color of the CanSparkMax was the following:
 
-    <img src="./images/InfoRelatedToCanSparkMaxColors.jpg" width=150>
+    <img src="https://github.com/Lakemonsters2635/MonsterDocs/blob/main/doc/images/InfoRelatedToCanSparkMaxColors.jpg" width=150>
 
 * Figured out one of the cables is broken and changed it, which fixed the issue
 
-  <img src="./images/CanSparkMaxLight.jpg" alt="CanSparkMaxLights" width="150">
+  <img src="https://github.com/Lakemonsters2635/MonsterDocs/blob/main/doc/images/CanSparkMaxLight.jpg" alt="CanSparkMaxLights" width="150">
