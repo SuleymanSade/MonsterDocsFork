@@ -2,13 +2,7 @@
 
 ### Initial Symptoms 
 
-* Error in VS code when the code is deployed:
-
-  ![Low Voltage Error Message](https://github.com/Lakemonsters2635/MonsterDocs/blob/main/doc/images/LowVoltageErrorMessage.jpg)
-
-  ![Low Voltage Error Message](images/LowVoltageErrorMessage.jpg)
-  <img src="https://github.com/Lakemonsters2635/MonsterDocs/blob/main/doc/images/LowVoltageErrorMessage.jpg" alt="Low Voltage Error Message" width= "150" />
-
+* [Error in VS code](images/LowVoltageErrorMessage.jpg) when the code is deployed.
 * Can bus was giving error when ran with RevClient
 
 ### Trouble Shooting Safety
