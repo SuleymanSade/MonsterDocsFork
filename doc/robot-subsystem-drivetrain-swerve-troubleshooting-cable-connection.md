@@ -4,7 +4,10 @@
 
 * Error in VS code when the code is deployed:
 
-  <img src="https://github.com/Lakemonsters2635/MonsterDocs/blob/main/doc/images/LowVoltageErrorMessage.jpg" width= "150" />
+  ![Low Voltage Error Message](https://github.com/Lakemonsters2635/MonsterDocs/blob/main/doc/images/LowVoltageErrorMessage.jpg)
+
+  ![Low Voltage Error Message](images/LowVoltageErrorMessage.jpg)
+  <img src="https://github.com/Lakemonsters2635/MonsterDocs/blob/main/doc/images/LowVoltageErrorMessage.jpg" alt="Low Voltage Error Message" width= "150" />
 
 * Can bus was giving error when ran with RevClient
 
