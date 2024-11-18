@@ -5,3 +5,4 @@ TODO: Docs on how to do an arduino color sensor... how do you have smarter senso
 By giving a simple command to robo rio, then we can have smart automation on the robo rio.
 
 Also... if we do it in the arduino... the arduino can control other electronics subsystems such as the LED board or color strip for improved driver feedback.
+    
