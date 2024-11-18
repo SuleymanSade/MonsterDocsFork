@@ -6,4 +6,4 @@ This is an example file to see if github pages uses this as the page
 Is it stopped working.
 
 Java:
-<img src="/assets/img/java.jpeg">
+<img src="/assets/images/java.jpeg" alt="java_symbol">
