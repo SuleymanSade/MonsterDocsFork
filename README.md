@@ -6,4 +6,4 @@
 
 ### python:
 
-<img src="/MonsterDocsFork/python.jpg" width="100px"> <img src="/python.jpg" width="100px">
+<img src="/MonsterDocsFork/python.jpg" width="100px" alt=""> <img src="/python.jpg" width="100px" alt="">
