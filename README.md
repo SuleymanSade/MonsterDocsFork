@@ -1,7 +1,9 @@
 ## This is an example document
 
-java:
+### java:
+
 <img src="/MonsterDocsFork/assets/images/java.jpeg" width="100px">
 
-python:
-<img src="/MonsterDocsFork/python.jpg">
+### python:
+
+<img src="/MonsterDocsFork/python.jpg" width="100px"> <img src="/python.jpg" width="100px">
