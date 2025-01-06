@@ -11,7 +11,7 @@ MonsterDocsFork...
 ### java:
 
 <img src="/MonsterDocsFork/assets/images/java.jpeg" width="100px" alt="">
-<img src="[/assets/images/java.jpeg](https://github.com/SuleymanSade/MonsterDocsFork/blob/main/MonsterDocsFork/assets/images/java.jpeg)" width="100px" alt="">
+<img src="[/assets/images/java.jpeg](https://github.com/SuleymanSade/MonsterDocsFork/MonsterDocsFork/assets/images/java.jpeg)" width="100px" alt="">
 
 <img src="https://github.com/SuleymanSade/MonsterDocsFork/blob/main/MonsterDocsFork/assets/images/java.jpeg">
 ### python:
