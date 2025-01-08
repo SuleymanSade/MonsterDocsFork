@@ -4,7 +4,7 @@
 
 MonsterDocsFork...
 
-<img src="/MonsterDocsFork/java.jpeg" width="100px" alt="">
+<img src="/MonsterDocsFork/assets/java.jpeg" width="100px" alt="">
 
 MonsterDocsFork...
 
