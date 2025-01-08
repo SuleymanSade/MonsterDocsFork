@@ -10,7 +10,7 @@ MonsterDocsFork...
 
 ### java:
 
-<img src="/MonsterDocsFork/MonsterDocsFork/assets/images/java.jpeg" width="100px" alt="">
+<img src="/MonsterDocsFork/assets/images/java.jpeg" width="100px" alt="">
 <!-- <img src="[/assets/images/java.jpeg](https://github.com/SuleymanSade/MonsterDocsFork/MonsterDocsFork/assets/images/java.jpeg)" width="100px" alt=""> -->
 
 <img src="https://suleymansade.github.io/MonsterDocsFork/assets/images/java.jpeg" alt="">
